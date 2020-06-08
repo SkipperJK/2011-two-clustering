@@ -1,3 +1,6 @@
+import sys
+sys.path.append('../')
+
 from pymongo import MongoClient
 from core.model.Triple import Triple
 

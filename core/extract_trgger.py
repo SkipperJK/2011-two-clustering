@@ -1,5 +1,5 @@
-# import sys
-# sys.path.append("../")
+import sys
+sys.path.append("../")
 from pyhanlp import *
 from mongoengine import connect
 from core.model.OriginalArticle import OriginalArticle
