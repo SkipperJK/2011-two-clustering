@@ -11,7 +11,7 @@ kiwisolver==1.2.0
 matplotlib==3.2.1
 mongoengine==0.20.0
 mxnet==1.6.0
-numpy==1.18.4
+numpy==1.22.0
 Pillow==7.1.2
 portalocker==1.7.0
 pyhanlp==0.1.66
